@@ -1,8 +1,8 @@
 class StrictEqualityExtension {
   getInfo() {
     return {
-      id: 'strictequalityexample', // change this if you make an actual extension!
-      name: 'Strict Equality',
+      id: 'something', // change this if you make an actual extension!
+      name: 'Strings',
       blocks: [
         {
           opcode: 'strictlyEquals',
